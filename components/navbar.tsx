@@ -20,9 +20,9 @@ export default function Navbar() {
         <Link
           href="/"
           className="font-medium tracking-tight hover:opacity-90 transition-opacity"
-          aria-label="SpaceBio Engine Home"
+          aria-label="Space Biology Knowledge Engine"
         >
-          <span className="text-pretty">SpaceBio Engine</span>
+          <span className="text-pretty">Space Biology Knowledge Engine</span>
         </Link>
 
         <div className="flex items-center gap-2">
